@@ -21,7 +21,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={docappointment}
+              imgPath={blog}
               isBlog={false}
               title="Full Stack Doctor Appointment Website"
               description="Responsive booking platform enabling patients to schedule appointments and doctors to
