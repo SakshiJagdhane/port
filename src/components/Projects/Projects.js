@@ -33,7 +33,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={blog}
+              imgPath={wanderlust}
               isBlog={false}
               title="NearMeExplorers"
               description="NearMe Explorer is a location-based web that helps users discover nearby places, services, and attractions in real-time."
